@@ -7,7 +7,7 @@ export default function Results({ input }) {
     resultsData[0].annualInvestment;
   console.log(resultsData);
   return (
-    <table id="results">
+    <table id="result">
       <caption>Calculated results based on above input values</caption>
       <thead>
         <tr>
